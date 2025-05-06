@@ -1,0 +1,537 @@
+type: collection.insomnia.rest/5.0
+name: My Collection
+meta:
+  id: wrk_ba64201a73df4b1993e785807830832d
+  created: 1704313044301
+  modified: 1704313044301
+collection:
+  - name: api_adonis actions
+    meta:
+      id: fld_60c3756af0b346bfb70355923efffd27
+      created: 1595590523117
+      modified: 1595590523117
+      sortKey: -1595590523117
+  - name: endpoints_proffy
+    meta:
+      id: fld_639565848fe149008c2676f29e91f958
+      created: 1601757025882
+      modified: 1601757025882
+      sortKey: -1601757025882
+  - name: api_first_api_rails
+    meta:
+      id: fld_d26ef6b8079240b48c895032bbf25468
+      created: 1609101466971
+      modified: 1609101466971
+      sortKey: -1609101466971
+  - name: gobarber_typescript
+    meta:
+      id: fld_ea9a6bc26d714678a3e8b49b17c9ddb1
+      created: 1617903029029
+      modified: 1617903029029
+      sortKey: -1617903029029
+    children:
+      - name: appointments
+        meta:
+          id: fld_91f5f449c5564989884adc1a48a58d58
+          created: 1617903049680
+          modified: 1617903049680
+          sortKey: -1617903049680
+      - name: users
+        meta:
+          id: fld_74503c89d6ad480fa447af65d5e2d03f
+          created: 1617973754634
+          modified: 1617973754634
+          sortKey: -1617973754634
+      - name: sessions
+        meta:
+          id: fld_509a6d07f6ef46a8abfebb5338e28854
+          created: 1617987076863
+          modified: 1617987076863
+          sortKey: -1617987076863
+  - name: endpoints app-backend pollux
+    meta:
+      id: fld_9bce72ce1f2a450bb0eaaad5543bf428
+      created: 1618399969818
+      modified: 1618399969818
+      sortKey: -1618399969818
+  - name: endpoints_labs_test-02
+    meta:
+      id: fld_7577f5a845854c3386753e151f36c0d0
+      created: 1620923522062
+      modified: 1620923522062
+      sortKey: -1619548821240.5
+    children:
+      - name: address
+        meta:
+          id: fld_58d917401a3442768826d1afc51b2e1c
+          created: 1620923522080
+          modified: 1620923522080
+          sortKey: -1620758587526
+      - name: labs
+        meta:
+          id: fld_ebd1efbe005b42ac8f1c9da5756cb98d
+          created: 1620923522090
+          modified: 1620923522090
+          sortKey: -1620784479031
+      - name: exam
+        meta:
+          id: fld_1bd33f6e32a344cfa65e7d860eb24c11
+          created: 1620923522101
+          modified: 1620923522101
+          sortKey: -1620820695470
+      - name: examtolabs
+        meta:
+          id: fld_1123ced98d2e4b9394efd7ef0cab1e7d
+          created: 1620923522116
+          modified: 1620923522116
+          sortKey: -1620832359434
+  - name: endpoints_mazza_chalenge
+    meta:
+      id: fld_594f2dc9c8c34e1eb4fd6dd1bdb0f7be
+      created: 1621261919670
+      modified: 1621261919670
+      sortKey: -1621261919670
+  - name: gobarber_js
+    meta:
+      id: fld_d1c094b1154540f7b0147899a2553395
+      created: 1654326281759
+      modified: 1654326281759
+      sortKey: -1615825063545
+    children:
+      - name: appointments
+        meta:
+          id: fld_fac9ecfa13b14396b2b77b7c7f7ae800
+          created: 1654326281767
+          modified: 1654326281767
+          sortKey: -1617903049680
+      - name: users
+        meta:
+          id: fld_93d74f1272644b2c8ed6cd8c7d897c3e
+          created: 1654326281803
+          modified: 1654326281803
+          sortKey: -1617973754634
+      - name: sessions
+        meta:
+          id: fld_4705538c4a44442bb8e440198a8cfdd9
+          created: 1654326281818
+          modified: 1654326281818
+          sortKey: -1617987076863
+  - name: endpoints-backend-books
+    meta:
+      id: fld_f53cf08d035442dcba7863d8595f096d
+      created: 1655177648746
+      modified: 1655249084533
+      sortKey: -1655177648746
+    children:
+      - name: users
+        meta:
+          id: fld_c3484173e66841db821730dd9cabdcc5
+          created: 1655177950736
+          modified: 1655177950736
+          sortKey: -1655177950736
+      - name: sessions
+        meta:
+          id: fld_8701f77054cb45fba28c56257a2f9b0d
+          created: 1655179273787
+          modified: 1655179273787
+          sortKey: -1655179273787
+      - name: books
+        meta:
+          id: fld_4dc28560d53d4b0581bfcf9210ef593b
+          created: 1655180117904
+          modified: 1655180117904
+          sortKey: -1655180117904
+  - name: endpoints-backend-api_orders
+    meta:
+      id: fld_44092c2ad9b1440ab73beec81fd0b860
+      created: 1655332685858
+      modified: 1655414910072
+      sortKey: -1655332685858
+    children:
+      - name: users
+        meta:
+          id: fld_fe7cd015ae7c4af2b11ba87a9c4c9fc3
+          created: 1655332708542
+          modified: 1655332708542
+          sortKey: -1655332708543
+      - name: session
+        meta:
+          id: fld_ce366e8019444dbba136e151a4d3203a
+          created: 1655344125559
+          modified: 1655344125559
+          sortKey: -1655344125559
+      - name: Order
+        meta:
+          id: fld_b0873dc6f84b4209a0f3634006d8c515
+          created: 1655402785023
+          modified: 1655402785023
+          sortKey: -1655402785023
+  - name: nestjs_jwt
+    meta:
+      id: fld_2b10d72bf8794892be606b4ae116f923
+      created: 1655739712699
+      modified: 1655739712699
+      sortKey: -1655739712699
+  - name: nestjs_api_todos
+    meta:
+      id: fld_e93f5fb7073841bc920867776d560985
+      created: 1655935907462
+      modified: 1655935907462
+      sortKey: -1655935907462
+  - name: nestjs_microservice
+    meta:
+      id: fld_0e6becd89d214e2c87a8438c6f8adf62
+      created: 1658464631859
+      modified: 1658464631859
+      sortKey: -1658464631859
+  - name: devtraning_nestjs
+    meta:
+      id: fld_7dc2dabca95e4649a17204a5bfb30585
+      created: 1661227779088
+      modified: 1661227779088
+      sortKey: -1661227779089
+  - name: devsignin_nestjs
+    meta:
+      id: fld_250f7444981f4fd38e4891ea98f20e4c
+      created: 1665722618340
+      modified: 1665722618340
+      sortKey: -1665722618340
+  - name: nestjs-prisma-api
+    meta:
+      id: fld_d0999f189ebd455a810caeb1d3a171d8
+      created: 1667877930540
+      modified: 1667877930540
+      sortKey: -1663475198714.5
+    children:
+      - name: users
+        meta:
+          id: fld_203ee36e715048f58f609ceb002093be
+          created: 1669175387296
+          modified: 1669175387296
+          sortKey: -1669175387296
+      - name: posts
+        meta:
+          id: fld_3734f0d7804c40beb9646f1ce36f0050
+          created: 1669175425918
+          modified: 1669175425918
+          sortKey: -1669175425918
+      - name: Docs
+        meta:
+          id: fld_e4be45833eb0495da3ed685604966826
+          created: 1670381375817
+          modified: 1670381375817
+          sortKey: -1670381375817
+  - name: habits_project
+    meta:
+      id: fld_14a972438f734d528c462bd18ab3964d
+      created: 1679965766096
+      modified: 1679965766096
+      sortKey: -1679965766096
+    children:
+      - name: api
+        meta:
+          id: fld_dc26290ab7954b35b99cca7e977058fe
+          created: 1679965772266
+          modified: 1679965772266
+          sortKey: -1679965772266
+  - name: endpoints-firebase-delivery
+    meta:
+      id: fld_7f9c768fe6724461bd3e63e49703a96c
+      created: 1704313084827
+      modified: 1704313084827
+      sortKey: -1704313084827
+    children:
+      - name: api
+        meta:
+          id: fld_a81f0689087f4c70afdff92ecac17517
+          created: 1704313101076
+          modified: 1704313101076
+          sortKey: -1704313101076
+        children:
+          - name: integrations
+            meta:
+              id: fld_031a9f5c91b64c10a32d736d077045ee
+              created: 1704313114567
+              modified: 1704313114567
+              sortKey: -1704313114567
+          - name: statistics
+            meta:
+              id: fld_edcee6fc710c4107afd79cf59c29d63a
+              created: 1704893269295
+              modified: 1704893269295
+              sortKey: -1704893269295
+          - name: users
+            meta:
+              id: fld_e3bc3392c4d14829943a474e71089126
+              created: 1705085593462
+              modified: 1705085593462
+              sortKey: -1705085593462
+          - name: companies
+            meta:
+              id: fld_d3a1738c44f74361b8e6eda0552cc208
+              created: 1705350035084
+              modified: 1705350035084
+              sortKey: -1705350035084
+          - name: elasticSearch
+            meta:
+              id: fld_c45a66d228a048e5861e477821c93de8
+              created: 1706289012522
+              modified: 1706289012522
+              sortKey: -1706289012522
+          - name: company
+            meta:
+              id: fld_f5a50df7db674863bc8279d4112cabc8
+              created: 1708018044247
+              modified: 1708018044247
+              sortKey: -1708018044247
+          - name: products
+            meta:
+              id: fld_0433000cf98647c79fb15d2b700aaace
+              created: 1709037585211
+              modified: 1709037592933
+              sortKey: -1708018044347
+      - name: functions
+        meta:
+          id: fld_a7fb916134d64929a3fdf15f5cb2bb9d
+          created: 1708983365391
+          modified: 1708983365391
+          sortKey: -1708983365391
+  - name: task_manager_nest
+    meta:
+      id: fld_1c999caa28cb4aa4a4b94fc83c47dfc7
+      created: 1705979093428
+      modified: 1709823338710
+      sortKey: -1705979093428
+    children:
+      - name: notification
+        meta:
+          id: fld_11f5c26dc7cf44f08830529261a34053
+          created: 1708491896051
+          modified: 1708491896051
+          sortKey: -1708491896051
+  - name: endpints-firebase-whatsapp
+    meta:
+      id: fld_7283e1c0b0514ed4848243a9952183af
+      created: 1708538380351
+      modified: 1708538380351
+      sortKey: -1708538380351
+    children:
+      - name: database
+        meta:
+          id: fld_64ef10c37bc242d58eccf387934ea387
+          created: 1708538401231
+          modified: 1708538401231
+          sortKey: -1708538401231
+  - name: gen-pag-microservices
+    meta:
+      id: fld_b23fadf2e74747fc965aab3f1ce689a1
+      created: 1709824275493
+      modified: 1709824275493
+      sortKey: -1709824275493
+    children:
+      - name: auth
+        meta:
+          id: fld_b672243fa29e482cba4610914b297017
+          created: 1709824288354
+          modified: 1709824288354
+          sortKey: -1709824288354
+      - name: events
+        meta:
+          id: fld_5e8c2fd9604c455c893e9926a7e41682
+          created: 1710869551906
+          modified: 1710869551906
+          sortKey: -1710869551906
+  - name: nest_auth_mongodb
+    meta:
+      id: fld_a10246bd8d2b4e0aa5cdd44894d68e8a
+      created: 1710389298748
+      modified: 1710389298748
+      sortKey: -1710389298748
+    children:
+      - name: product
+        meta:
+          id: fld_30b9e297ffa94529b8d6c91198bf5b21
+          created: 1712031145706
+          modified: 1712031145706
+          sortKey: -1712031145706
+  - name: celcoin_endpoints
+    meta:
+      id: fld_e5b057bb9a6d430faf77afabd46424d0
+      created: 1734033728505
+      modified: 1734033728505
+      sortKey: -1734033728505
+  - name: bananabank_endpoints
+    meta:
+      id: fld_054979b9ab0b44a0b8225a7e95a4ba9c
+      created: 1736623108528
+      modified: 1736623108528
+      sortKey: -1736623108528
+  - name: project_vehicles
+    meta:
+      id: fld_7777cb734cb64c6faa587c74c6a335f7
+      created: 1746548193693
+      modified: 1746548193693
+      sortKey: -1746548193693
+    children:
+      - url: http://localhost:3030/vehicles
+        name: create vehicle
+        meta:
+          id: req_ee6d3c13d5fb456cbbf1fd1e6112f490
+          created: 1746548201644
+          modified: 1746549071726
+          isPrivate: false
+          sortKey: -1746548201644
+        method: POST
+        body:
+          mimeType: application/json
+          text: |-
+            {
+            	"plate": "teste",
+            	"renavam_code": "teste123",
+            	"model": "heat",
+            	"brand": "ford",
+            	"year": 2000
+            	
+            }
+        headers:
+          - name: Content-Type
+            value: application/json
+          - name: User-Agent
+            value: insomnia/11.1.0
+        settings:
+          renderRequestBody: true
+          encodeUrl: true
+          followRedirects: global
+          cookies:
+            send: true
+            store: true
+          rebuildPath: true
+      - url: http://localhost:3030/vehicles
+        name: get all vehicle
+        meta:
+          id: req_df8ea56e833d4f77b8f62f7355b304db
+          created: 1746550980573
+          modified: 1746550999279
+          isPrivate: false
+          sortKey: -1741585657155.5
+        method: GET
+        body:
+          mimeType: application/json
+        headers:
+          - name: Content-Type
+            value: application/json
+          - name: User-Agent
+            value: insomnia/11.1.0
+        settings:
+          renderRequestBody: true
+          encodeUrl: true
+          followRedirects: global
+          cookies:
+            send: true
+            store: true
+          rebuildPath: true
+      - url: http://localhost:3030/vehicles/287ca6ce-3d95-4a3d-a0f6-6e77ce9d084d
+        name: get vehicle by id
+        meta:
+          id: req_46223c82150a485794cda4ab091b20db
+          created: 1746551023205
+          modified: 1746551068948
+          isPrivate: false
+          sortKey: -1739104384911.25
+        method: GET
+        body:
+          mimeType: application/json
+        headers:
+          - name: Content-Type
+            value: application/json
+          - name: User-Agent
+            value: insomnia/11.1.0
+        settings:
+          renderRequestBody: true
+          encodeUrl: true
+          followRedirects: global
+          cookies:
+            send: true
+            store: true
+          rebuildPath: true
+      - url: http://localhost:3030/vehicles/287ca6ce-3d95-4a3d-a0f6-6e77ce9d084d
+        name: update vehicle
+        meta:
+          id: req_62c6e446c1ec478db23633fce27332d6
+          created: 1746551105378
+          modified: 1746551237053
+          isPrivate: false
+          sortKey: -1744066929399.75
+        method: PUT
+        body:
+          mimeType: application/json
+          text: |-
+            {
+            	"plate": "444555",
+            	"renavam_code": "teste123_e",
+            	"model": "heat",
+            	"brand": "ford",
+            	"year": 2001
+            	
+            }
+        headers:
+          - name: Content-Type
+            value: application/json
+          - name: User-Agent
+            value: insomnia/11.1.0
+        settings:
+          renderRequestBody: true
+          encodeUrl: true
+          followRedirects: global
+          cookies:
+            send: true
+            store: true
+          rebuildPath: true
+      - url: http://localhost:3030/vehicles/47fe1641-0acb-465a-8bc0-8683904a01fd
+        name: delete vehicle
+        meta:
+          id: req_43e289bd039a427b94fe80e19cd4a4e7
+          created: 1746551281690
+          modified: 1746551322806
+          isPrivate: false
+          sortKey: -1742826293277.625
+        method: DELETE
+        body:
+          mimeType: application/json
+        headers:
+          - name: Content-Type
+            value: application/json
+          - name: User-Agent
+            value: insomnia/11.1.0
+        settings:
+          renderRequestBody: true
+          encodeUrl: true
+          followRedirects: global
+          cookies:
+            send: true
+            store: true
+          rebuildPath: true
+cookieJar:
+  name: Default Jar
+  meta:
+    id: jar_3b6baf5adf4a8c4e2f6ceec7b79bafc76a6894f4
+    created: 1704313044309
+    modified: 1711136398595
+  cookies:
+    - key: _csrf
+      value: 5zMQUDkcQdp77M_L-LboDA
+      maxAge: 300
+      domain: localhost
+      path: /
+      httpOnly: true
+      hostOnly: true
+      creation: 2024-03-22T19:39:58.595Z
+      lastAccessed: 2024-03-22T19:39:58.595Z
+      id: 77fd5393-c0c9-42a6-af21-b5dc6467b777
+environments:
+  name: Base Environment
+  meta:
+    id: env_3b6baf5adf4a8c4e2f6ceec7b79bafc76a6894f4
+    created: 1704313044305
+    modified: 1704313044305
+    isPrivate: false
