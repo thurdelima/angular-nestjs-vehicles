@@ -59,3 +59,14 @@ Import file collections_project_vehicles.yml (está dentro do vehicles_server) e
 <div align="center" >
   <img src="./collections.gif">
 </div>
+
+
+
+
+<br/>
+
+<h4 align="center">
+
+Made with ♥ by Arthur Lima :wave: [Get in touch!](https://www.linkedin.com/in/arthur-lima-294ab0103/)
+
+</h4>
