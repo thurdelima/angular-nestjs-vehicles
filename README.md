@@ -58,5 +58,5 @@ Rodar os testes
 Import file collections_project_vehicles.yml em seu insomnia ou postman para realizar requests
 
 <div align="center" >
-  <img src="./collection.gif">
+  <img src="./collections.gif">
 </div>
