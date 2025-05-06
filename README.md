@@ -18,7 +18,6 @@ O repositório contém dois diretórios principais:
 A interface de usuário permite aos usuários interagir com o sistema de forma intuitiva, com funcionalidades como:
 
 - Listagem de veículos
-- Cadastro e edição de veículos
 - Integração com a API para operações em tempo real
 - Layout responsivo e moderno
 
@@ -55,7 +54,7 @@ Rodar os testes
 
 ### 🧳 Collections
 
-Import file collections_project_vehicles.yml em seu insomnia ou postman para realizar requests
+Import file collections_project_vehicles.yml (está dentro do vehicles_server) em seu insomnia ou postman para realizar requests
 
 <div align="center" >
   <img src="./collections.gif">
