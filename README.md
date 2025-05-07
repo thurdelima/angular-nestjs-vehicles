@@ -1,6 +1,6 @@
 # 🚗 Vehicles
 
-**Vehicles** é uma aplicação web composta por um frontend em Angular e uma API backend em NestJS. O projeto foi desenvolvido com o objetivo de gerenciar veículos, oferecendo funcionalidades como cadastro, listagem, edição e exclusão de informações de veículos.
+**Vehicles** é uma aplicação web composta por um frontend em Angular e uma API backend em NestJS. O projeto foi desenvolvido com o objetivo de gerenciar veículos.
 
 <div align="center" >
   <img src="./front.gif">
