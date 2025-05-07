@@ -21,6 +21,22 @@ A interface de usuário permite aos usuários interagir com o sistema de forma i
 - Integração com a API para operações em tempo real
 - Layout responsivo e moderno
 
+## 🐋 Container
+
+Para subir o projeto via docker-compose
+
+```bash
+  docker-compose up ou docker-compose up --build
+```
+
+<div align="center" >
+  <img src="./docker_run.gif">
+</div>
+
+<div align="center" >
+  <img src="./running_docker.png">
+</div>
+
 ### 📁 Instalação do Frontend
 
 ```bash
