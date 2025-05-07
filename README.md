@@ -51,6 +51,7 @@ ng serve -o
 cd vehicles_server
 npm install
 descomentar o .env.example e ajustar a variável de ambiente
+npx prisma migrate deploy (rodar migrations)
 npx prisma db seed (rodar os seeds)
 npm run start
 ```
