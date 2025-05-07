@@ -54,3 +54,15 @@ table {
   border-radius: 8px;
   overflow: hidden;
 }
+
+.mat-toolbar-row, .mat-toolbar-single-row {
+  display: flex
+;
+  box-sizing: border-box;
+  padding: 16px 16px;
+  width: 100%;
+  flex-direction: row;
+  align-items: center;
+  white-space: nowrap;
+  height: var(--mat-toolbar-standard-height, 64px);
+}
